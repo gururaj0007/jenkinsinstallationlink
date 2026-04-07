@@ -11,4 +11,6 @@ https://github.com/Aareez01/kubernetes-v1.30.2-cluster-using-kubeadm (kubernetes
 https://kubernetes.io/docs/concepts/workloads/controllers/replicationcontroller/ ( kubernetes documentation)
 
 helm installation steps
-curl -fsSL -o get_helm.sh https://raw.githubusercontent.com/helm/helm/main/scripts/get-helm-3
+step1) curl -fsSL -o get_helm.sh https://raw.githubusercontent.com/helm/helm/main/scripts/get-helm-3
+step2) chmod 700 get_helm.sh
+step3) ./get_helm.sh
