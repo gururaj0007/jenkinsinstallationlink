@@ -14,3 +14,5 @@ helm installation steps
 step1) curl -fsSL -o get_helm.sh https://raw.githubusercontent.com/helm/helm/main/scripts/get-helm-3
 step2) chmod 700 get_helm.sh
 step3) ./get_helm.sh
+
+https://docs.digitalocean.com/reference/terraform/getting-started/#install-ubuntu (Terraform installation link)
